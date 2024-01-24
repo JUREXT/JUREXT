@@ -1,2 +1,1 @@
-- 👀 I’m interested in Android, Flutter, Laravel, Arduino.
-- 🌱 I’m currently learning Android Compose and Laravel with Tailwind CSS.
+🌱 I’m currently learning Android Compose.
